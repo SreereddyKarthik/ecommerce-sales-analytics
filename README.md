@@ -9,6 +9,17 @@ Raw Data → Data Cleaning → SQL Analysis → Python Analysis → Power BI Das
 
 The dataset contains transactional e-commerce information including order details, customers, products, categories, regions, sales channels, payment methods, quantity, discounts, revenue, and profit.
 
+
+>>> Power BI Dashboard
+
+ -> Dashboard Overview
+
+![E-Commerce Sales Dashboard](screenshots/dashboard.png)
+
+Business Insights
+
+![Business Insights](screenshots/business-insights.png)
+
 =======================================================================================================
 Key KPIs:
 
